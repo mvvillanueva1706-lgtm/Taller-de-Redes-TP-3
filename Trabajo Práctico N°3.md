@@ -51,13 +51,12 @@
 3.
 ```mermaid
 flowchart TD
-    A((Internet)) <--> B[Router]
+    A[Internet] <--> B([Router])
     B <--> C[Switch]
 
-    C <--> PC1[Computadora 1]
-    C <--> PC2[Computadora 2]
-    C <--> ...[...]
-    C <--> PC30[Computadora 30]
+    C <--> PC1([PC 1])
+    C <--> PC2([PC 2])
+    C <--> PC20([PC 20])
 ```
 
 ---
