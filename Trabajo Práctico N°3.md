@@ -18,8 +18,8 @@
 1. Existen aproximadamente 4.300 millones de direcciones IPv4. Estas se están agotando porque cada vez hay más dispositivos conectados a Internet, como computadoras, celulares, televisores y otros equipos, y la cantidad de direcciones IP es limitada.
 
 2. 
- IPv4: 192.168.10.5 
- IPv6: 2001:0db8:85a3:0000:0000:8a2e:0370:7334
+ - IPv4: 192.168.10.5 
+ - IPv6: 2001:0db8:85a3:0000:0000:8a2e:0370:7334
 
 3. IPv6 utiliza direcciones de 128 bits, que permite aproximadamente 340 undecillones (o 2¹²⁸) direcciones posibles, una cantidad muchísimo mayor que la de IPv4, lo que permite identificar una cantidad mucho mayor de dispositivos.
 
