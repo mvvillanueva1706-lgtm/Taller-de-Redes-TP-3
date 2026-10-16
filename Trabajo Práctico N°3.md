@@ -17,9 +17,20 @@
 
 1. Existen aproximadamente 4.300 millones de direcciones IPv4. Estas se están agotando porque cada vez hay más dispositivos conectados a Internet, como computadoras, celulares, televisores y otros equipos, y la cantidad de direcciones IP es limitada.
 
-2. IPv4: 192.168.10.5, IPv6: 2001:0db8:85a3:0000:0000:8a2e:0370:7334
+2. **IPv4:** 192.168.10.5, **IPv6:** 2001:0db8:85a3:0000:0000:8a2e:0370:7334
 
 3. IPv6 utiliza direcciones de 128 bits, que permite aproximadamente 340 undecillones (o 2¹²⁸) direcciones posibles, una cantidad muchísimo mayor que la de IPv4, lo que permite identificar una cantidad mucho mayor de dispositivos.
+
+---
+**Pregunta 3: ¿Qué tipo de red es la red escolar?**
+
+1. Es una red LAN (Local Area Network o red de area local) porque conecta computadoras dentro de un area pequeña.
+
+2. Conviene utilizar cables UTP para conectar dentro de un mismo edificio. Para interconectar los tres edificios conviene utilizar fibra óptica.
+
+3. **Bus:** todos los dispositivos se conectan a un único cable principal. **Estrella:** todos los dispositivos se conectan a un dispositivo central, como un switch. **Anillo:** los dispositivos se conectan y forman un circuito cerrado.
+
+4. La topologia de Estrella es la mas adecuada para la escuela porque permite conectar las 30 computadoras a un switch, facilita agregar nuevos equipos y tambien la detección de fallas.
 
 ---
 **5)** El equipo para conectar es el **Switch** y su principal función es recibir los cables de las computadoras y repartir los datos **SOLO** al equipo correspondiente.
