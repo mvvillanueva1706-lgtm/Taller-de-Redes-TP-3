@@ -51,7 +51,7 @@
 3.
 ```mermaid
 flowchart TD
-    A[Internet] <--> B([Router])
+    A[Internet] <--> B[Router]
     B <--> C[Switch]
 
     C <--> PC1([PC 1])
