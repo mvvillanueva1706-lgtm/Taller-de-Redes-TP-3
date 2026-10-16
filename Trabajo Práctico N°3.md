@@ -42,15 +42,40 @@
 3. **Velocidad:** puede ofrecer velocidades más variables y menores debido a la distancia al router y a la cantidad de dispositivos conectados. **Latencia:** suele tener una latencia mayor y menos estable. **Interferencias:** puede sufrir interferencias de otros dispositivos, paredes y redes Wi-Fi cercanas.
 
 ---
-**5)** El equipo para conectar es el **Switch** y su principal función es recibir los cables de las computadoras y repartir los datos **SOLO** al equipo correspondiente.
+**Pregunta 5: ¿Qué equipos comprar para el taller?**
 
+1. El equipo para conectar es el switch y su principal función es recibir los cables de las computadoras y repartir los datos solo al equipo correspondiente.
+
+2. Se necesita un router, que conecta la red local con otras redes. La diferencia principal es que el switch conecta los dispositivos dentro de la red local, mientras que el router permite la comunicación entre redes diferentes.
+
+3.
 ```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+flowchart TD
+    A((Internet)) <--> B[Router]
+    B <--> C[Switch de 24 puertos]
+
+    C <--> PC1[Computadora 1]
+    C <--> PC2[Computadora 2]
+    C <--> PC3[Computadora 3]
+    C <--> PC4[Computadora 4]
+    C <--> PC5[Computadora 5]
+    C <--> PC6[Computadora 6]
+    C <--> PC7[Computadora 7]
+    C <--> PC8[Computadora 8]
+    C <--> PC9[Computadora 9]
+    C <--> PC10[Computadora 10]
+    C <--> PC11[Computadora 11]
+    C <--> PC12[Computadora 12]
+    C <--> PC13[Computadora 13]
+    C <--> PC14[Computadora 14]
+    C <--> PC15[Computadora 15]
+    C <--> PC16[Computadora 16]
+    C <--> PC17[Computadora 17]
+    C <--> PC18[Computadora 18]
+    C <--> PC19[Computadora 19]
+    C <--> PC20[Computadora 20]
 ```
+
 
 ---
 
