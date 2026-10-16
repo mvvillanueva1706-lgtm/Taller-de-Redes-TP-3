@@ -19,7 +19,7 @@
 
 2. **IPv4:** 192.168.10.5, **IPv6:** 2001:0db8:85a3:0000:0000:8a2e:0370:7334
 
-3. IPv6 utiliza direcciones de 128 bits, que permite aproximadamente 340 undecillones (o 2¹²⁸) direcciones posibles, una cantidad muchísimo mayor que la de IPv4, lo que permite identificar una cantidad mucho mayor de dispositivos.
+3. IPv6 utiliza direcciones de 128 bits, que permite aproximadamente 340 undecillones (o 2¹²⁸) direcciones posibles, una cantidad mucho mayor que la de IPv4, lo que permite identificar una cantidad mucho mayor de dispositivos.
 
 ---
 **Pregunta 3: ¿Qué tipo de red es la red escolar?**
