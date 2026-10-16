@@ -60,35 +60,44 @@ flowchart TD
 ```
 
 ---
+**Pregunta 6: Diferencia entre Switch y Router**
 
-**6)** El que se usa para salir a internet es el **Router**. El router se encarga de unir la red local con la red externa.
+1.  La diferencia es que el switch conecta dispositivos dentro de una misma red local y utiliza direcciones MAC para enviar los datos al dispositivo correspondiente. El router conecta redes y utiliza direcciones IP para dirigir los paquetes hacia su destino.
 
----
+2. Es mas probable que la falla se encuentre en el router, porque como las computadoras pueden hacerse ping entre sí dentro de la red local, el switch parece estar funcionando correctamente.
 
-**7)** Se usa fibra óptica, también el cable UTP, y el Coaxial Monomodo, sirve para exteriores en edificios.
-
----
-
-**8)** **Fibra Óptica** transporta señal luminosa. La fibra óptica al transmitir luz y no corriente eléctrica y carecer de componentes metálicos conductores, no sufre interferencias electromagnéticas.
-
-* **Conector SC:** Conector de cuerpo rectangular de presión, ampliamente difundido en instalaciones de telecomunicaciones.
-* **Conector LC:** Conector de tamaño pequeño con acoplamiento tipo push-pull.
+3. En una red escolar, las computadoras se conectan al switch, que permite la comunicación entre los equipos, el switch se conecta al router, y permite que las computadoras accedan a internet.
 
 ---
+**Pregunta 7: ¿Qué cable usar para interconectar edificios?**
 
-**4)** Es mejor la conexión inalámbrica ya que hay varios dispositivos que no pueden conectarse por cable.
+1. El cable UTP no es adecuado porque tiene un alcance maximo de 100 metros por enlace. Si se supera esa distancia, la señal podria perder calidad y la comunicación deja de ser garantizada.
+
+2. Se recomienda usar fibra optica porque tiene un mayor alcance y es inmune a las interferencias electromagnéticas.
+
+3. La fibra monomodo es la opcion más recomendable porque admite distancias mas mayores y ofreceria una posibilidad de ampliacion si se requiere.
 
 ---
+**Pregunta 8: Fundamentos de la Fibra Óptica**
 
-**9)** El **Patch Panel** es un panel que organiza y concentra las conexiones de los cables de red. Facilita por su fácil localización si tenemos problemas sin tener que manipular todo el cableado instalado.
+1. La fibra óptica transporta señales luminosas y al transmitir luz y no corriente eléctrica y carecer de componentes metálicos conductores, no sufre interferencias electromagnéticas, y puede transmitir datos a varios km de distancia.
+
+2. **Conector SC:** Conector de cuerpo rectangular de presión, ampliamente difundido en instalaciones de telecomunicaciones. **Conector LC:** Conector de tamaño pequeño con acoplamiento tipo push-pull.
 
 ---
+**Pregunta 9: Planificación del cableado estructurado**
 
-**10)** 
-* **Física**
-  1. Revisar el cable de red.
-* **Enlace**
-  2. Revisar el sist operativo.
-* **Red**
-  3. Verificar la dirección IP, que sea correcta.
-  * Comando `ipconfig` – IP, puerta de enlace y la máscara.
+1. Segun la norma ANSI/TIA-568, el cableado horizontal de cobre tiene una longitud maxima de 100 metros en total, incluyendo 90 metros para el cableado fijo instalado en paredes y 10 metros en total para los patch cords.
+
+2. Se recomienda instalar al menos dos tomas de red RJ-45 por puesto de trabajo.
+
+3. El Patch Panel es un panel que organiza y concentra las conexiones de los cables de red. Facilita el mantenimiento por su fácil localización si tenemos problemas sin tener que manipular todo el cableado instalado.
+
+---
+**Pregunta 10: Diagnóstico de fallas en la red**
+
+1. **Capa Fisica:** revisar el cable de red. **Capa de enlace:** revisar el sistema operativo. **Capa de red:** verificar que la conexion IP sea correcta.
+
+2. Si la computadora responde al ping 127.0.0.1 o a su propia IP, pero no logra comunicarse con la puerta de enlace, el problema puede estar en la conexion entre la computadora y/o la red local.
+
+3. Comando `ipconfig`, muestra el IP, la puerta de enlace y la mascara.
