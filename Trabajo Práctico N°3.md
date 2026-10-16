@@ -44,6 +44,14 @@
 ---
 **5)** El equipo para conectar es el **Switch** y su principal función es recibir los cables de las computadoras y repartir los datos **SOLO** al equipo correspondiente.
 
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
 ---
 
 **6)** El que se usa para salir a internet es el **Router**. El router se encarga de unir la red local con la red externa.
