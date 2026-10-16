@@ -33,6 +33,15 @@
 4. La topologia de Estrella es la mas adecuada para la escuela porque permite conectar las 30 computadoras a un switch, facilita agregar nuevos equipos y tambien la detección de fallas.
 
 ---
+**Pregunta 4: ¿Conexión por cable o inalámbrica?**
+
+1. Es mejor la conexion inalambrica ya que hay varios dispositivos que no pueden conectarse por cable.
+
+2. **Wi-Fi:** utiliza frecuencias de 2,4 GHz, 5 GHz y, en estandares mas recientes, 6 GHz para conectar dispositivos de forma inalambrica. **Bluetooth:** utiliza la frecuencia de 2,4 GHz para conectar dispositivos cercanos, como teclados, auriculares y celulares.
+
+3. **Velocidad:** puede ofrecer velocidades más variables y menores debido a la distancia al router y a la cantidad de dispositivos conectados. **Latencia:** suele tener una latencia mayor y menos estable. **Interferencias:** puede sufrir interferencias de otros dispositivos, paredes y redes Wi-Fi cercanas.
+
+---
 **5)** El equipo para conectar es el **Switch** y su principal función es recibir los cables de las computadoras y repartir los datos **SOLO** al equipo correspondiente.
 
 ---
