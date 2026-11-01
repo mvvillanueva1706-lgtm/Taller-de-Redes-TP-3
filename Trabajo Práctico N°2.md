@@ -62,6 +62,10 @@
 ---
 ### Pregunta 5: ¿Qué equipos comprar para el taller?
 
+**Escenario:** La escuela quiere armar la red de un taller informático con 20 computadoras. Todas deben comunicarse entre sí en la red local y tener acceso a Internet. Te asignan la tarea de especificar la compra de los equipos de red.<br>
+
+**Se pide:** ¿Qué equipo de interconexión se necesita para conectar las 20 computadoras en la red local? Explicar su función principal.¿Qué equipo adicional se requiere para brindar acceso a Internet a esa red local? Explicar en qué se diferencia del equipo anterior. Dibujar o describir textualmente un esquema simple indicando cómo se conectan las computadoras, el switch, el router y la conexión hacia Internet.
+
 1. El equipo para conectar es el switch y su principal función es recibir los cables de las computadoras y repartir los datos solo al equipo correspondiente.
 
 2. Se necesita un router, que conecta la red local con otras redes. La diferencia principal es que el switch conecta los dispositivos dentro de la red local, mientras que el router permite la comunicación entre redes diferentes.
