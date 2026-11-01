@@ -1,9 +1,10 @@
 # Redes: Practico N°3
 
 ### Pregunta 1: Asignar direcciones IP a una nueva aula
-- **Escenario:** La escuela construyó una nueva aula de computación que necesita 30 computadoras conectadas a la red. El administrador de red te asigna la red 192.168.10.0/24. <br>
 
-- **Se pide:** Explicar cuál es la función de una dirección IP en una red de computadoras.Diseñar un plan de asignación de IP para las 30 computadoras (escribir al menos 3 ejemplos con dirección IP, máscara de subred y puerta de enlace / gateway).Indicar si 192.168.10.0 pertenece a IPv4 o IPv6, y comparar ambos protocolos en cuanto a longitud de la dirección (bits) y formato de escritura.
+**Escenario:** La escuela construyó una nueva aula de computación que necesita 30 computadoras conectadas a la red. El administrador de red te asigna la red 192.168.10.0/24. <br>
+
+**Se pide:** Explicar cuál es la función de una dirección IP en una red de computadoras.Diseñar un plan de asignación de IP para las 30 computadoras (escribir al menos 3 ejemplos con dirección IP, máscara de subred y puerta de enlace / gateway).Indicar si 192.168.10.0 pertenece a IPv4 o IPv6, y comparar ambos protocolos en cuanto a longitud de la dirección (bits) y formato de escritura.
 
 1. Una direccion IP es un identificador numerico que permite reconocer a cada dispositivo dentro de una red y tambien permite la comunicacion entre ellos.
 
