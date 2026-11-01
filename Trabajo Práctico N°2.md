@@ -34,6 +34,10 @@
 ---
 ### Pregunta 3: ¿Qué tipo de red es la red escolar?
 
+**Escenario:** Una escuela técnica cuenta con 3 edificios: Aulas, Taller y Administración. La distancia máxima entre edificios es de aproximadamente 800 metros. <br>
+
+**Se pide:** Según su cobertura geográfica, determinar si esta red escolar es LAN, MAN o WAN, y justificar la respuesta.Si se deben conectar las computadoras dentro de un mismo edificio, ¿qué medio de conexión conviene utilizar? ¿Y para interconectar los tres edificios entre sí? Comparar brevemente las topologías Bus, Estrella y Anillo. ¿Cuál es la más adecuada para la red de esta escuela y por qué?
+
 1. Es una red LAN (Local Area Network o red de area local) porque conecta computadoras dentro de un area pequeña.
 
 2. Conviene utilizar cables UTP para conectar dentro de un mismo edificio. Para interconectar los tres edificios conviene utilizar fibra óptica.
