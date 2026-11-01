@@ -97,7 +97,7 @@ flowchart TD
 ---
 ### Pregunta 7: ¿Qué cable usar para interconectar edificios?
 
-**Escenario:** Se requiere tender un enlace de red entre el edificio de Aulas y el edificio del Taller, separados por una distancia de 600 metros.
+**Escenario:** Se requiere tender un enlace de red entre el edificio de Aulas y el edificio del Taller, separados por una distancia de 600 metros.<br>
 
 **Se pide:** Explicar por qué el cable de par trenzado común (UTP) no es apto para realizar este enlace directo de 600 metros. Recomendar qué medio de transmisión debe utilizarse y mencionar dos ventajas fundamentales respecto al cobre. Para una distancia de 600 metros, ¿conviene utilizar fibra monomodo o multimodo? Justificar la respuesta.
 
@@ -110,7 +110,7 @@ flowchart TD
 ---
 ### Pregunta 8: Fundamentos de la Fibra Óptica
 
-**Escenario:** En el rack del taller observás un patch cord de fibra óptica y notas que la parte interna está compuesta por un hilo muy delgado de vidrio.
+**Escenario:** En el rack del taller observás un patch cord de fibra óptica y notas que la parte interna está compuesta por un hilo muy delgado de vidrio.<br>
 
 **Se pide:** ¿Qué tipo de señal transporta la fibra óptica (eléctrica, electromagnética o luminosa)?Explicar por qué la fibra óptica no sufre interferencias electromagnéticas (EMI), a diferencia de los cables de cobre UTP. Mencionar e ilustrar/describir al menos dos tipos de conectores de fibra óptica comunes (ej.: LC, SC, ST).
 
@@ -120,6 +120,10 @@ flowchart TD
 
 ---
 ### Pregunta 9: Planificación del cableado estructurado
+
+**Escenario:** Se va a realizar la instalación de red en una nueva aula aplicando las buenas prácticas de la norma de cableado estructurado (ANSI/TIA-568).<br>
+
+**Se pide:** ¿Cuál es la longitud máxima permitida para el cableado horizontal de cobre (incluyendo roseta, cable de pared y patch cords)?¿Cuántos puntos de red (tomas RJ-45) se recomienda instalar como mínimo por puesto de trabajo?¿Qué es y para qué sirve un Patch Panel (panel de parcheo) en el rack de comunicaciones? ¿Por qué facilita el mantenimiento?
 
 1. Segun la norma ANSI/TIA-568, el cableado horizontal de cobre tiene una longitud maxima de 100 metros en total, incluyendo 90 metros para el cableado fijo instalado en paredes y 10 metros en total para los patch cords.
 
