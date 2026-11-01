@@ -110,6 +110,10 @@ flowchart TD
 ---
 ### Pregunta 8: Fundamentos de la Fibra Óptica
 
+**Escenario:** En el rack del taller observás un patch cord de fibra óptica y notas que la parte interna está compuesta por un hilo muy delgado de vidrio.
+
+**Se pide:** ¿Qué tipo de señal transporta la fibra óptica (eléctrica, electromagnética o luminosa)?Explicar por qué la fibra óptica no sufre interferencias electromagnéticas (EMI), a diferencia de los cables de cobre UTP. Mencionar e ilustrar/describir al menos dos tipos de conectores de fibra óptica comunes (ej.: LC, SC, ST).
+
 1. La fibra óptica transporta señales luminosas y al transmitir luz y no corriente eléctrica y carecer de componentes metálicos conductores, no sufre interferencias electromagnéticas, y puede transmitir datos a varios km de distancia.
 
 2. **Conector SC:** Conector de cuerpo rectangular de presión, ampliamente difundido en instalaciones de telecomunicaciones. **Conector LC:** Conector de tamaño pequeño con acoplamiento tipo push-pull.
