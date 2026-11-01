@@ -1,4 +1,4 @@
-# Redes: Practico N°3
+# Redes: Practico N°2
 
 ### Pregunta 1: Asignar direcciones IP a una nueva aula
 
@@ -20,6 +20,10 @@
 
 ---
 ### Pregunta 2: ¿Por qué se necesita IPv6?
+
+**Escenario:** La escuela suma cada vez más dispositivos a la red (computadoras, tablets, cámaras de seguridad, impresoras, etc.) y el administrador advierte que las direcciones IPv4 disponibles a nivel mundial se están agotando.<br>
+
+**Se pide:** Explicar cuántas direcciones IPv4 existen aproximadamente (en cantidad total) y por qué se están agotando.Escribir un ejemplo válido de dirección IPv4 y un ejemplo de dirección IPv6.Explicar de qué manera IPv6 resuelve el problema de la escasez de direcciones IP.
 
 1. Existen aproximadamente 4.300 millones de direcciones IPv4. Estas se están agotando porque cada vez hay más dispositivos conectados a Internet, como computadoras, celulares, televisores y otros equipos, y la cantidad de direcciones IP es limitada.
 
