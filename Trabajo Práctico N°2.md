@@ -84,6 +84,10 @@ flowchart TD
 ---
 ### Pregunta 6: Diferencia entre Switch y Router
 
+**Escenario:** En la sala de profesores, las computadoras pueden hacer ping entre sí dentro de la red local, pero ninguna logra navegar en Internet.<br>
+
+**Se pide:** Explicar con tus palabras la diferencia clave entre la función de un Switch (Capa 2) y la de un Router (Capa 3). Según el escenario planteado, ¿en cuál de los dos equipos (o en su configuración/puerta de enlace) es más probable que se encuentre la falla? Justificar. Describir brevemente cómo trabajan juntos el switch y el router en una red institucional real.
+
 1.  La diferencia es que el switch conecta dispositivos dentro de una misma red local y utiliza direcciones MAC para enviar los datos al dispositivo correspondiente. El router conecta redes y utiliza direcciones IP para dirigir los paquetes hacia su destino.
 
 2. Es mas probable que la falla se encuentre en el router, porque como las computadoras pueden hacerse ping entre sí dentro de la red local, el switch parece estar funcionando correctamente.
