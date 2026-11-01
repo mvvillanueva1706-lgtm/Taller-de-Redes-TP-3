@@ -134,6 +134,10 @@ flowchart TD
 ---
 ### Pregunta 10: Diagnóstico de fallas en la red
 
+**Escenario:** Una computadora de un aula se queda sin conexión a Internet repentinamente, pero el resto de las computadoras del mismo salón siguen funcionando con normalidad.<br>
+
+**Se pide:** Mencionar al menos 3 pasos de diagnóstico ordenados metódicamente desde la capa física hasta la capa de red. Si la computadora responde correctamente al hacer ping 127.0.0.1 (o a su propia IP) pero no responde al hacer ping a la IP de la puerta de enlace (gateway), ¿dónde puede estar el problema?Explicar un comando de consola o herramienta de software útil para diagnosticar este problema (ejemplo: ipconfig, ping, traceroute).
+
 1. **Capa Fisica:** revisar el cable de red. **Capa de enlace:** revisar el sistema operativo. **Capa de red:** verificar que la conexion IP sea correcta.
 
 2. Si la computadora responde al ping 127.0.0.1 o a su propia IP, pero no logra comunicarse con la puerta de enlace, el problema puede estar en la conexion entre la computadora y/o la red local.
