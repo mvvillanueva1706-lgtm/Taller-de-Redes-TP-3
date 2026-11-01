@@ -36,7 +36,7 @@
 
 **Escenario:** Una escuela técnica cuenta con 3 edificios: Aulas, Taller y Administración. La distancia máxima entre edificios es de aproximadamente 800 metros. <br>
 
-**Se pide:** Según su cobertura geográfica, determinar si esta red escolar es LAN, MAN o WAN, y justificar la respuesta.Si se deben conectar las computadoras dentro de un mismo edificio, ¿qué medio de conexión conviene utilizar? ¿Y para interconectar los tres edificios entre sí? Comparar brevemente las topologías Bus, Estrella y Anillo. ¿Cuál es la más adecuada para la red de esta escuela y por qué?
+**Se pide:** Según su cobertura geográfica, determinar si esta red escolar es LAN, MAN o WAN, y justificar la respuesta. Si se deben conectar las computadoras dentro de un mismo edificio, ¿qué medio de conexión conviene utilizar? ¿Y para interconectar los tres edificios entre sí? Comparar brevemente las topologías Bus, Estrella y Anillo. ¿Cuál es la más adecuada para la red de esta escuela y por qué?
 
 1. Es una red LAN (Local Area Network o red de area local) porque conecta computadoras dentro de un area pequeña.
 
@@ -48,6 +48,10 @@
 
 ---
 ### Pregunta 4: ¿Conexión por cable o inalámbrica?
+
+**Escenario:** La biblioteca de la escuela necesita conectarse a Internet. Una parte del espacio cuenta con escritorios fijos con computadoras de escritorio, y otra zona está destinada a estudiantes que utilizan sus propios dispositivos móviles (celulares, notebooks, tablets).<br>
+
+**Se pide:** Recomendar el tipo de conexión adecuado (cableada o inalámbrica) para la zona fija y para la zona móvil, justificando cada elección. Mencionar al menos dos tecnologías o frecuencias de transmisión inalámbrica.¿Qué desventajas presenta una red inalámbrica frente a una red cableada en términos de velocidad, latencia e interferencias?
 
 1. Es mejor la conexion inalambrica ya que hay varios dispositivos que no pueden conectarse por cable.
 
