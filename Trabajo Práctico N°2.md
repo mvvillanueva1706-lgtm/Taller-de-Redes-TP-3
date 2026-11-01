@@ -97,6 +97,10 @@ flowchart TD
 ---
 ### Pregunta 7: ¿Qué cable usar para interconectar edificios?
 
+**Escenario:** Se requiere tender un enlace de red entre el edificio de Aulas y el edificio del Taller, separados por una distancia de 600 metros.
+
+**Se pide:** Explicar por qué el cable de par trenzado común (UTP) no es apto para realizar este enlace directo de 600 metros. Recomendar qué medio de transmisión debe utilizarse y mencionar dos ventajas fundamentales respecto al cobre. Para una distancia de 600 metros, ¿conviene utilizar fibra monomodo o multimodo? Justificar la respuesta.
+
 1. El cable UTP no es adecuado porque tiene un alcance maximo de 100 metros por enlace. Si se supera esa distancia, la señal podria perder calidad y la comunicación deja de ser garantizada.
 
 2. Se recomienda usar fibra optica porque tiene un mayor alcance y es inmune a las interferencias electromagnéticas.
