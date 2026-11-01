@@ -1,6 +1,9 @@
 # Redes: Practico N°3
 
 ### Pregunta 1: Asignar direcciones IP a una nueva aula
+- **Escenario:** La escuela construyó una nueva aula de computación que necesita 30 computadoras conectadas a la red. El administrador de red te asigna la red 192.168.10.0/24. <br>
+
+- **Se pide:** Explicar cuál es la función de una dirección IP en una red de computadoras.Diseñar un plan de asignación de IP para las 30 computadoras (escribir al menos 3 ejemplos con dirección IP, máscara de subred y puerta de enlace / gateway).Indicar si 192.168.10.0 pertenece a IPv4 o IPv6, y comparar ambos protocolos en cuanto a longitud de la dirección (bits) y formato de escritura.
 
 1. Una direccion IP es un identificador numerico que permite reconocer a cada dispositivo dentro de una red y tambien permite la comunicacion entre ellos.
 
@@ -19,7 +22,7 @@
 
 1. Existen aproximadamente 4.300 millones de direcciones IPv4. Estas se están agotando porque cada vez hay más dispositivos conectados a Internet, como computadoras, celulares, televisores y otros equipos, y la cantidad de direcciones IP es limitada.
 
-2. **IPv4:** 192.168.10.5, **IPv6:** 2001:0db8:85a3:0000:0000:8a2e:0370:7334
+2. **IPv4:** 192.168.10.5. <br> **IPv6:** 2001:0db8:85a3:0000:0000:8a2e:0370:7334
 
 3. IPv6 utiliza direcciones de 128 bits, que permite aproximadamente 340 undecillones (o 2¹²⁸) direcciones posibles, una cantidad mucho mayor que la de IPv4, lo que permite identificar una cantidad mucho mayor de dispositivos.
 
