@@ -23,7 +23,7 @@
 
 **Escenario:** La escuela suma cada vez más dispositivos a la red (computadoras, tablets, cámaras de seguridad, impresoras, etc.) y el administrador advierte que las direcciones IPv4 disponibles a nivel mundial se están agotando.<br>
 
-**Se pide:** Explicar cuántas direcciones IPv4 existen aproximadamente (en cantidad total) y por qué se están agotando.Escribir un ejemplo válido de dirección IPv4 y un ejemplo de dirección IPv6.Explicar de qué manera IPv6 resuelve el problema de la escasez de direcciones IP.
+**Se pide:** Explicar cuántas direcciones IPv4 existen aproximadamente (en cantidad total) y por qué se están agotando. Escribir un ejemplo válido de dirección IPv4 y un ejemplo de dirección IPv6.Explicar de qué manera IPv6 resuelve el problema de la escasez de direcciones IP.
 
 1. Existen aproximadamente 4.300 millones de direcciones IPv4. Estas se están agotando porque cada vez hay más dispositivos conectados a Internet, como computadoras, celulares, televisores y otros equipos, y la cantidad de direcciones IP es limitada.
 
@@ -42,7 +42,7 @@
 
 2. Conviene utilizar cables UTP para conectar dentro de un mismo edificio. Para interconectar los tres edificios conviene utilizar fibra óptica.
 
-3. **Bus:** todos los dispositivos se conectan a un único cable principal. **Estrella:** todos los dispositivos se conectan a un dispositivo central, como un switch. **Anillo:** los dispositivos se conectan y forman un circuito cerrado.
+3. **Bus:** todos los dispositivos se conectan a un único cable principal.<br> **Estrella:** todos los dispositivos se conectan a un dispositivo central, como un switch.<br> **Anillo:** los dispositivos se conectan y forman un circuito cerrado.
 
 4. La topologia de Estrella es la mas adecuada para la escuela porque permite conectar las 30 computadoras a un switch, facilita agregar nuevos equipos y tambien la detección de fallas.
 
@@ -55,9 +55,9 @@
 
 1. Es mejor la conexion inalambrica ya que hay varios dispositivos que no pueden conectarse por cable.
 
-2. **Wi-Fi:** utiliza frecuencias de 2,4 GHz, 5 GHz y, en estandares mas recientes, 6 GHz para conectar dispositivos de forma inalambrica. **Bluetooth:** utiliza la frecuencia de 2,4 GHz para conectar dispositivos cercanos, como teclados, auriculares y celulares.
+2. **Wi-Fi:** utiliza frecuencias de 2,4 GHz, 5 GHz y, en estandares mas recientes, 6 GHz para conectar dispositivos de forma inalambrica.<br> **Bluetooth:** utiliza la frecuencia de 2,4 GHz para conectar dispositivos cercanos, como teclados, auriculares y celulares.
 
-3. **Velocidad:** puede ofrecer velocidades más variables y menores debido a la distancia al router y a la cantidad de dispositivos conectados. **Latencia:** suele tener una latencia mayor y menos estable. **Interferencias:** puede sufrir interferencias de otros dispositivos, paredes y redes Wi-Fi cercanas.
+3. **Velocidad:** puede ofrecer velocidades más variables y menores debido a la distancia al router y a la cantidad de dispositivos conectados.<br> **Latencia:** suele tener una latencia mayor y menos estable.<br> **Interferencias:** puede sufrir interferencias de otros dispositivos, paredes y redes Wi-Fi cercanas.
 
 ---
 ### Pregunta 5: ¿Qué equipos comprar para el taller?
@@ -116,7 +116,7 @@ flowchart TD
 
 1. La fibra óptica transporta señales luminosas y al transmitir luz y no corriente eléctrica y carecer de componentes metálicos conductores, no sufre interferencias electromagnéticas, y puede transmitir datos a varios km de distancia.
 
-2. **Conector SC:** Conector de cuerpo rectangular de presión, ampliamente difundido en instalaciones de telecomunicaciones. **Conector LC:** Conector de tamaño pequeño con acoplamiento tipo push-pull.
+2. **Conector SC:** Conector de cuerpo rectangular de presión, ampliamente difundido en instalaciones de telecomunicaciones.<br> **Conector LC:** Conector de tamaño pequeño con acoplamiento tipo push-pull.
 
 ---
 ### Pregunta 9: Planificación del cableado estructurado
@@ -138,7 +138,7 @@ flowchart TD
 
 **Se pide:** Mencionar al menos 3 pasos de diagnóstico ordenados metódicamente desde la capa física hasta la capa de red. Si la computadora responde correctamente al hacer ping 127.0.0.1 (o a su propia IP) pero no responde al hacer ping a la IP de la puerta de enlace (gateway), ¿dónde puede estar el problema?Explicar un comando de consola o herramienta de software útil para diagnosticar este problema (ejemplo: ipconfig, ping, traceroute).
 
-1. **Capa Fisica:** revisar el cable de red. **Capa de enlace:** revisar el sistema operativo. **Capa de red:** verificar que la conexion IP sea correcta.
+1. **Capa Fisica:** revisar el cable de red.<br> **Capa de enlace:** revisar el sistema operativo.<br> **Capa de red:** verificar que la conexion IP sea correcta.
 
 2. Si la computadora responde al ping 127.0.0.1 o a su propia IP, pero no logra comunicarse con la puerta de enlace, el problema puede estar en la conexion entre la computadora y/o la red local.
 
